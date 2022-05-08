@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: #B7B7B7;
+}
+
+
+.logo-container{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+.logo{
+    width: 9rem;
+    
+}
+
+.texto{
+    text-align: justify;
+}
+
+video{
+    width: 80%;
+    height: 50vh;
+}
+
+.linea{
+    width: 5rem;
+    height: 0.2rem;
+    background-color: white;
+    border-radius: 0.5rem;
+}
+.centimetros{
+    border-radius: 0.25rem;
+    border: solid 0.1rem black;
+}
+.medida{
+    width: 5rem;
+    height: 2rem;
+    background-color: white;
+    border: solid 0.1rem black;
+    border-radius: 0.25rem;
+}
+
+.joyas{
+    border-radius: 00.5rem;
+}
